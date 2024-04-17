@@ -20,3 +20,6 @@ const bool=(Symbol.keyFor(Symbol.for("symbol"))==Object("symbol"))?true:false;
 //print the boolvalue
 console.log(bool);
 
+
+
+
