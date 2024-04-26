@@ -21,5 +21,5 @@ const bool=(Symbol.keyFor(Symbol.for("symbol"))==Object("symbol"))?true:false;
 console.log(bool);
 
 
-
+const fs=required("fs")
 
